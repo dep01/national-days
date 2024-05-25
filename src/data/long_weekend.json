@@ -1,0 +1,20 @@
+[
+    {
+        "startDate": "2023-12-30",
+        "endDate": "2024-01-01",
+        "dayCount": 3,
+        "needBridgeDay": false
+    },
+    {
+        "startDate": "2024-03-29",
+        "endDate": "2024-03-31",
+        "dayCount": 3,
+        "needBridgeDay": false
+    },
+    {
+        "startDate": "2024-05-09",
+        "endDate": "2024-05-12",
+        "dayCount": 4,
+        "needBridgeDay": true
+    }
+]
